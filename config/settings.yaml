@@ -1,0 +1,8 @@
+robot:
+  connection:
+    type: "ap"
+    local_ip: "192.168.2.23"
+  chassis:
+    tile_size_meter: 0.58        # Length of a single tile
+    move_speed_mps: 0.685        # Movement speed (m/s)
+    stop_duration_sec: 1.5      # A period of stagnation
