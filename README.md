@@ -3,9 +3,9 @@
 This project is part of the RoboMaster Laboratory course. It focuses on controlling the robot's movement based on specified distance parameters while logging real-time sensor data (Position, IMU, and Attitude). The logged data is subsequently processed and visualized to analyze the robot's physical behaviors.
 
 ## 📌 Team Members
-* Mr. Thanarach Thepthun 6810110141
+* Mr. Thanarat Teptan 6810110141
 * Mr. Nannam Chaichanyut 6810110179
-* Mr. Winyoo Singhsathon 6810110324
+* Mr. Winyou Singhsathorn 6810110324
 * Mr. Siwakorn Saengkaew 6810110717
 
 ## 🎬 Video Demonstration
