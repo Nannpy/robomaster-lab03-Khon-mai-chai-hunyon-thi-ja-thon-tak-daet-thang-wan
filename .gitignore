@@ -1,0 +1,11 @@
+# บล็อกโฟลเดอร์ Virtual Environment
+venv/
+
+# บล็อกไฟล์ขยะระบบของ Mac
+.DS_Store
+
+# บล็อกไฟล์แคชของ Python
+__pycache__/
+
+# บล็อกข้อมูลดิบย้อนหลัง (เผื่อไม่อยากให้ตาราง csv รกบน github)
+data/raw/
